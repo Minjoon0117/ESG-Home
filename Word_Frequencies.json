@@ -598,7 +598,7 @@
         "circular economy": 3.0,
         "chief executive officer": 3.0
     },
-    "Metal Minerals(Iron)": {
+    "Metal Minerals_Iron": {
         "climate change": 117.0,
         "human right": 69.0,
         "financial year": 62.0,
@@ -1116,7 +1116,7 @@
         "plastic waste": 3.0,
         "primary responsibility": 3.0
     },
-    "Wholesale & Retail(Wholesale)": {
+    "Wholesale & Retail_Wholesale": {
         "human right": 309,
         "supervisory board member": 242,
         "climate change": 184,
@@ -1588,7 +1588,7 @@
         "serious risk": 3,
         "mitigation measure": 3
     },
-    "Wholesale & Retail(Retail)": {
+    "Wholesale & Retail_Retail": {
         "supply chain": 102.0,
         "food waste": 45.0,
         "human right": 43.0,
@@ -6612,7 +6612,7 @@
         "capital expenditure": 3.0,
         "year end": 3.0
     },
-    "Metal Minerals(Non-Ferrous)": {
+    "Metal Minerals_Non-Ferrous": {
         "climate change": 94.0,
         "human right": 46.0,
         "annual report": 39.0,
